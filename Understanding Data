@@ -1,4 +1,12 @@
+3 Icons on Left are:
+  1) Report
+  2) Data
+  3) Model
+  
 Data can be :
-  1) Transformed
-  2) Modeled
-  3) Visualized
+  1) Visualized
+  2) Transformed
+  3) Modeled
+  
+DAX (Data Analysis Expressions):  It is a library of functions and operators that can be combined to build formulas and expressions in Power BI in Excel data models.
+  
