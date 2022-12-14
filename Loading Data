@@ -1,1 +1,60 @@
-# This is a file which elaborates how to load data into PowerBI Desktop
+# This is a file which elaborates how to Importing Data into PowerBI Desktop
+
+------------------------------------------------------ Import ----------------------------------------------------------
+
+File->Import
+In import We can import 
+  1) Power BI Template
+  2) Power BI visual from a file
+  3) Power BI visual from Appsource
+  4) Power Queary Power Pivot, Power View
+  
+  
+------------------------------------------------------ Get Data From WebPage ----------------------------------------------------------
+
+Home->GetData->Web
+Enter URL of a webpage
+Choose the Authentication required by the page from the following options:
+  1) Anonymous
+  2) Windows
+  3) Basic
+  4) Web API
+  5) Organizational Account
+
+The Auto detected tables will be displayed, If no table found, you can click the option of "Add Table using Example"
+
+------------------------------------------------------ Get Data From PowerBI Dataset/Service (In PowerBI Service) ----------------------------------------------------------
+
+Home->DataHub->PowerBI datasetsets
+Choose a dataset and click "connect"
+Direct Query Connection: When PowerBI dataset is chosen, it gets connected directly to cloud (Live PowerBI dataset)
+NOTE: It requires to have an organizational account 
+
+
+------------------------------------------------------ Get PowerBI Dataset (In PowerBI Desktop) ----------------------------------------------------------
+
+On home Page (Report View) Click the option "Try sample Dataset" -> Load Sample Data -> Load
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
