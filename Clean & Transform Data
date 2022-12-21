@@ -1,0 +1,30 @@
+Power Query :
+  1. Micorsoft's engine for data preparation and transformation (Power Query Editor)
+  2. It can clean and store reshaped data in many locations
+  
+  NOTE: You are not changing source data, only changing how it is displayed
+  
+Applied Steps List:
+  1. Useful tool that tracks the actions and changes you perform
+  2. The step can be selected and view how the data is displayed up until that point
+  
+Do visual overview and make necessary changes
+Check for blank columns, misspellings or incorrect math
+
+## Transform Data
+   Home -> Transform Data -> Transform Data
+   
+   The changes made are displayed on right side
+   
+   Right Click on last change and Click "Extract Previous" and then give name to the query. This is the combination of all the changes made previously
+   The steps can also be renamed
+   
+ ## M Language
+ 
+    To view all the code of the applied steps, click on the applied step and Click Advanced Editor in "Query" Tab
+    
+ ## Using Maths operations on table
+    Click on the table, click on the table column and then Click "Transform" Tab. here different options are found includig Rounding off, Arithmetic operations,
+    Statistics etc in "Number Column" tab
+    
+    Any value in the column can be replaced by clicking "Replace Values" in the "Any Column"
