@@ -5,3 +5,20 @@ Data Modeling;
   
   Data Visuals must help you see how your business is performing/opportunities to do better
   
+  Power Pivot:
+    a. It is Power BI's built-in data modeling tool. 
+    b. It seizes on your data's most noteworthy relationships and calculations and translates them into 
+       card visualizations using "DAX language"
+    c. Power Pivot can help you extract the right relationships. 
+    d. It organizes your data into individual cards/tables and highlighting relationships that exist between them in the Model View
+       
+  Power View:
+    a. Once Power Pivot has turned your data's relationships and calculations into models, it passes it to a technology called Power View.
+    b. Power View takes data models and turns them into the powerful forms of visualizations that truly bring data to life. 
+    c. Sophisticated, real-time digital charts, graphs, even 3D maps, can all be used to tell your data story. 
+    d. You'll interact the most with Power View, while in the report view and in Power BI service dashboards
+    
+ Model View:
+  The third icon after Report aand Data on Left hand is Model View. Here you can see the relationship between the table and manage them by clicking "Manage Relationship"
+  in the "Relationship" Tab
+  
