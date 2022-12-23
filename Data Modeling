@@ -22,3 +22,8 @@ Data Modeling;
   The third icon after Report aand Data on Left hand is Model View. Here you can see the relationship between the table and manage them by clicking "Manage Relationship"
   in the "Relationship" Tab
   
+  
+Relatonships:
+  Home->Manage Relationships
+  Home->Manage Relationships->Edit->CheckBox "Assume Referential Integrity" means INNER JOIN rather than OUTER JOIN 
+  Home->Manage Relationships->Edit->CheckBox "Apply Security Filter in Both Directions" only applies when Cross Filter Diection is "Bidirectional"
