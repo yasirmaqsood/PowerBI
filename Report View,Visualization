@@ -1,0 +1,20 @@
+Types of Visualization
+  1. Chart Visualization (Best Used when measuring relationship between two or more values against each other)
+  2. Text Visualization
+  3. Geospatial Visualization
+  4. Custom Visualization
+  
+  
+Visualization type can be changed by clicking the existing visualization and then clicking any other visualization from the available ones
+  
+KPI (Key Performance Indicator):
+  1. Measurable value that can tell you how your data's actual performance measures up against the goals you have set for your business
+  2. The KPI chart visualization is the visual representation of where your data falls within the parameters of your goals
+  3. Must have a Base Measure Value, a Target Measure Value, and a Goal, also called a Threshold
+  
+Card:
+  Used to draw attention to single value
+  
+Key Influencer: 
+  1. The definition of a key influencer is a factor that drives a metric you're interested in.
+  2. Key influencer's chart option in the visualization pane
