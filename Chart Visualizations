@@ -4,7 +4,7 @@
 4. Waterfall charts
 5. Funnel charts
 6. Ribbon charts
-7. etc .........
+7. Etc .........
 
  --> Bar and column charts are best used to compare specific values across different categories.
  --> Scatter charts combine two values, the x-axis and y-axis, into a single data point. They are best used to highlight intersections in data. 
@@ -29,4 +29,27 @@ If a scatter chart contains a lot of information, it may be helpful to add "Refe
   
    ----------------------------------------------- WATERFALL CHART ------------------------------------------------
    
-   
+Waterfall charts show a running total to help understand how an initial value is affected by a series of positive and negative changes. 
+Click and drag the field you want to display on the x-axis of the waterfall chart to the category field.
+Click and drag the value you want to display to the y-axis field.
+To change the sort order or the field the waterfall chart is sorted by click the "More options" icon on the waterfall chart 3 Dots.
+To add additional data to the visualization, click and drag the data field to the "Breakdown Field".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
