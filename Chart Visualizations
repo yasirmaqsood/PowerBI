@@ -1,0 +1,25 @@
+1. Bar Charts
+2. Pie Charts
+3. Scatter Plots
+4. Waterfall charts
+5. Funnel charts
+6. Ribbon charts
+7. etc .........
+
+ --> Bar and column charts are best used to compare specific values across different categories.
+ --> Scatter charts combine two values, the x-axis and y-axis, into a single data point. They are best used to highlight intersections in data. 
+     Types include: scatter, bubble, and dot plot chart. 
+ --> Waterfall charts are best used to show how a value is affected by positive and negative changes and they show a progression from the initial value. 
+ --> Funnel charts are sequenced charts best used to show how data flows between stages. 
+ --> Ribbon charts are best used to show highest to lowest values or rank.
+ 
+ 
+ ----------------------------------------------- SCATTER PLOT ------------------------------------------------
+ 
+Scatter charts show the relationship between two numerical values, making it easier to identify correlational relationships.
+Click and drag the data field you want to group the values by to the values field.
+  This field must be unique for each point you want to plot. To avoid having one data point that aggregates the values on the X and Y axes.
+  Click and drag the data fields that should be displayed in the legend to the legend field.
+Click and drag the data fields you want to use in the X axis and Y axis fields.
+To visually emphasize a specific value with bubble sizes, click and drag the data field you want to emphasize to the size field.
+If a scatter chart contains a lot of information, it may be helpful to add "Reference Line" or "Benchmarks" to get a complete picture of yoour data.
