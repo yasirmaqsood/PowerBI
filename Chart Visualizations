@@ -23,3 +23,10 @@ Click and drag the data field you want to group the values by to the values fiel
 Click and drag the data fields you want to use in the X axis and Y axis fields.
 To visually emphasize a specific value with bubble sizes, click and drag the data field you want to emphasize to the size field.
 If a scatter chart contains a lot of information, it may be helpful to add "Reference Line" or "Benchmarks" to get a complete picture of yoour data.
+  >> You can Click Visualizations->Analytics->Further Analytics (3rd Option) to add further analytics
+  You can add Max, Min, Average, X-Constant, Y-Constant reference Line and Data Labels and change their colors and values from Further Analytics.
+  
+  
+   ----------------------------------------------- WATERFALL CHART ------------------------------------------------
+   
+   
