@@ -36,6 +36,20 @@ To change the sort order or the field the waterfall chart is sorted by click the
 To add additional data to the visualization, click and drag the data field to the "Breakdown Field".
 
 
+   ----------------------------------------------- FUNNEL CHART ----------------------------------------------------
+   
+   Funnel charts are useful for displaying data that has sequential changes.
+   With the new funnel chart, we can easily identify at which stage in the process the values drastically decrease/increase in our data.
+   
+   
+   ----------------------------------------------- RIBBON CHART ----------------------------------------------------
+   
+   Ribbon charts are a great choice to easily identify the highest value in your data set for each time period. 
+   Click and drag the data field for the time period to the axis field.
+   Click and drag the data field for the category to use to the legend field
+   Click and drag the data field for the value to display in the ribbon chart to the values field.
+   The ribbon chart populates with the selected data with the highest value always displayed at the top. Identify rank changes over a period of time with ribbon charts.
+
 
 
 
