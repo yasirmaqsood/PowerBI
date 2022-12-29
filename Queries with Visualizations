@@ -1,0 +1,33 @@
+ When that data becomes outdated your information does as well.At that point, you should be asking the questions what is the new data and how might it impact
+ what I think I know. 
+ Essentially you can turn questions and answers into custom visualizations. 
+ 
+ --------------------------- Create New Table Query -------------------------------------------
+ 
+ Creating a new table query allows you to enter data directly into a Power BI report.
+ Click the "Home" tab. In the data group, click "Enter Data".
+ 
+ 
+ ----------------------------  Turn a question into a visualization ----------------------------
+ 
+ Click the "Insert" tab.
+ Select a visualization or field to base the question visualization on. 
+ In the "AI Visuals" group, group, click "Q&A." 
+ A list of predefined questions is displayed. 
+ To view all of the suggestions, click "Show All suggestions." 
+ Select a suggestion that you want to use.
+ Alternatively, you can enter your own question in the ask a question about your data field.
+ 
+ 
+ ----------------------------- Create and Teach a Q&A Visualization ---------------------------
+ 
+ Report designers can configure a Q&A visual so it better understands the questions and terms people might use.
+ Q. And A visualizations allow report consumers to ask questions about the data model in everyday language and get answers in the form of visuals.
+ Select "Q&A" visualization from "visualization" Pane
+ Click "Settings" icon of the visualization saying "Teach Q&A"
+ Click "Get Started"
+ Click "Teach Q&A"
+ Now enter any natual language question and Power BI will create a visualization accordingly
+ For Example put a question "Number of table 2 runs against each opponent"
+ 
+ Similarly "Suggested Questions" can also be added replacing the automated questions
