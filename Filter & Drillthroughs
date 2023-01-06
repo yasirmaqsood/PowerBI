@@ -1,0 +1,31 @@
+----------------------------------------------------------- Slicer --------------------------------------------------------------
+
+A slicer is a unique element in that it is both a filter and a visual. It is most often used when Report Builders or their audiences need a standalone chart
+which can be used to filter other visualizations on the page.
+
+
+------------------------------------------------------------- Analyze ---------------------------------------------
+
+To analyze any visualization, right click the vsualization and click "Analyze"
+NOTE: The analyze option is not available for every visualization and epends on the data
+
+
+
+------------------------------------------------------------- Drill Up/ Drill Down ---------------------------------------------
+
+When a visual has a hierarchy, you can drill down to go from a more general view of data to a more focused view on values that make up the summary. 
+For instance, while reviewing a visualization that display sales revenue, you may decide to drill down to view the figures by state or month. 
+Select the visualization you want. Click the Data slash Drill tab. In the drill actions group, select Drill down. 
+Note if drill up and drill down or not available, the selected visualization does not have a hierarchy. Now you can drill down one field at a time. 
+Select the go to the next level in the hierarchy icon.
+
+An additional layer of data is displayed. To return to the previous view, click the drill up icon.
+
+To show the next access level across the entire visualization, click switch to next level in the drill actions group.
+
+To expand all of the data for the next access level, select Expand next level. Use the drill down feature to focus on a particular set of data in a visualization.
+
+
+------------------------------------------------------------- Export Data of the visualization ---------------------------------------------
+
+Click 3 dots on the visualization and "Export Data"
